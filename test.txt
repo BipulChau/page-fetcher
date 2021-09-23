@@ -1,0 +1,206 @@
+ <!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1" /><meta name="HandheldFriendly" content="true" /><title>Bipul Chaudhary</title><meta name="description" content="Dream Big! Live Big!" /><meta name="keywords" content="" /><link rel="shortcut icon" href="https://s3-eu-west-1.amazonaws.com/landingi-editor-uploads/QTLzLRu3/favicon.png"  type="image/x-icon"><meta property="og:title" content="Bipul Chaudhary"/><meta property="og:description" content="Dream Big! Live Big!"/><meta property="og:image" content="https://s3-eu-west-1.amazonaws.com/landingi-editor-uploads/fQPyovlt/bipulchaudhary.jpg"/><!--[if lt IE 9]><script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]--><link href="" type="text/css" rel="stylesheet"><link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,400italic,700,700italic&subset=latin,latin-ext" type="text/css" rel="stylesheet"><link href="https://fonts.googleapis.com/css?family=Ubuntu:300,300italic,400,400italic,700,700italic&subset=latin,latin-ext" type="text/css" rel="stylesheet"><link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,700,700italic&subset=latin,latin-ext" type="text/css" rel="stylesheet"><link href="https://fonts.googleapis.com/css?family=Roboto:300,300italic,400,400italic,700,700italic&subset=latin,latin-ext" type="text/css" rel="stylesheet"><!--[if lt IE 9]><link href="https://old.assets-landingi.com/bootstrap/css/ie8-grid.css?v=8.9.8" type="text/css" rel="stylesheet"><link href="https://styles.assets-landingi.com/sboQElqT/base_ie8.css" type="text/css" rel="stylesheet"><![endif]--><link href="https://styles.assets-landingi.com/assets/css/2.13-landend-base.css" type="text/css" rel="stylesheet"><link href="https://styles.assets-landingi.com/M2UZpLkp/base.css" type="text/css" rel="stylesheet"><script>
+    var landingiInternalDetails = {
+        'landing_id': '1084941',
+        'landing_hash': 'fe4714ffbe738365fd73',
+        'landing_variant_hash': '',
+        'landing_name': 'Bipul+Chaudhary',
+        'landing_lang': 'en',
+        'account_uuid': '1cd06016-2f19-11e9-86b5-02cbf204825c',
+        'apikey': '63122289-ce7b-4805-90a4-e4ea653c170d'
+   }
+</script><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-195954864-1"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+gtag('config', 'UA-195954864-1');
+</script><!-- Global site tag (gtag.js) - Google Ads: AW-390242552 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-390242552"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+gtag('config', 'AW-390242552');
+</script><!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '585988405734495');
+fbq('track', 'PageView');
+fbq('track', 'ViewContent');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=585988405734495&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code --><script>var youtubeVideos = [];</script><script src="https://popups.landingi.com/api/v2/landing/install-code?apikey=63122289-ce7b-4805-90a4-e4ea653c170d&landing=fe4714ffbe738365fd73"></script><script src="https://scripts.assets-landingi.com/lightboxes/lightbox-render.js?v=1632365854"></script>
+<script>
+window.addEventListener('load', function () {
+    LightboxRender.init({
+        useAaf: true
+    })
+});
+</script></head><body id="Wc18dpUAd1dpJv5DLl57H21orcwxF8iy"  >
+<div id="Xa1wmQ4hC7hWGhegZWfuOe7eZDisCoZV" class="widget widget-section " >
+    <div class="row">
+        
+        <div class="container " >
+            
+            <div id="s8TmSFaLTztE0RD3LTLiqvnW9p9FFoVP" class="widget widget-text"><p>LIVE SEMINAR! TWICE A WEEK!</p></div><form id="Ce6mE7pXSlPBoonc99T40vZPRsWTEarW" class="widget widget-form" data-orientation="vertical" data-version="2.1" action="/submit/fe4714ffbe738365fd73" enctype="multipart/form-data" method="post" novalidate data-hash="fe4714ffbe738365fd73"><div id="UXGH1vXWnlR6BZ5PipOao9hunNVvMp2n" class="widget widget-container clearfix"><label id="pZmtcswRONhyJvKL2rrpl0KdiBiGLoGy" class="widget widget-text widget-regular-label widget-label">Name</label><input class="widget widget-input-text" id="JyEyQzJAktBfWIwsWdkal1tThI9TOkdA"  type="text" subtype="name" placeholder="Enter Your Name" parentId="Ce6mE7pXSlPBoonc99T40vZPRsWTEarW"  name="first_name"  value=""></div><div id="pe93lQX3vyDAZGGllsTova3UW6yz8bkF" class="widget widget-container clearfix"><label id="oU0gGnyKhSQTphO9clPW2uZZCeWClJn9" class="widget widget-text widget-regular-label widget-label">E-mail</label><input class="widget widget-input-text" id="sSzKvPoAKhFXVO3CSP81d6562wX7k2op"  type="email" subtype="email" parentId="Ce6mE7pXSlPBoonc99T40vZPRsWTEarW" placeholder="Enter Your E-mail Address"  name="email"  value=""></div><div id="CJF3yupEPXrZ22EtOCksr25Q1aXV5NN9" class="widget widget-container clearfix">
+    <input class="widget widget-input-checkbox" type="checkbox"  id="zxG05MR0dQxFps3IeFGZ0BeIlzNAEyV6"  type="checkbox" parentId="Ce6mE7pXSlPBoonc99T40vZPRsWTEarW"  name="field[31]" ><label id="S8fBm0ce3ap5KHV3BVHTfZTyBul4FUFD" class="widget widget-text widget-checkbox-label widget-label"for="zxG05MR0dQxFps3IeFGZ0BeIlzNAEyV6">By checking this box, you consent to having us send information about our webinars & business program to the email address that you have provided on this form.</label>
+</div><input type="hidden" id="Zns5TfxAcgMSiNLXOArS0ed8gTv9Gzo0"   name="list[2]"  value="2"><input type="hidden" id="gXXJ5LuibhoV4RFQM4horoI2KfvLElXi"   name="form"  value="2516"><input type="hidden" id="LJe5mrb3mOQypc2dbgODs3Omq2MkAUdf"   name="field[16]"  value="Bipul Chaudhary"><input type="hidden" id="ZXUebguMIgQTQtSD5312nTADcGreWBUS"   name="field[18]"  value="https://www.facebook.com/bipul07133"><input type="hidden" id="HHbwFqaIP1fadcOhWtHDTnEWdCBTWUvp"   name="field[13]"  value="MD"><input type="hidden" id="nrk6zBNq2SLSqrFZXtX8v86lbFIrO6Vd"   name="field[17]"  value="bipul@bipulconsulting.com"><input type="hidden" id="a9ibwduUmITE9hK0k3fQQU8xTU9AtVrU"   name="tags"  value="Bipul Chaudhary"><div id="pnpSTWcQyJHEiFQmk6lKqmwbpOUKZZb7" class="widget widget-container input-button-container clearfix"><button class="widget widget-input-button" type="submit" id="SPgsBGxc7L6q815EktWybrArV060Stfi"  parentId="Ce6mE7pXSlPBoonc99T40vZPRsWTEarW"><div class="widget-overlay"></div>Register Now !</button></div><input type="hidden"    name="_name_"  value=""><input type="hidden"    name="_lead_uuid"  value=""><input type="hidden" name="_uid" value="Ce6mE7pXSlPBoonc99T40vZPRsWTEarW"><input type="hidden" name="_redirect" value=""></form><img id="mVrV8Ks8hMgvfwQwmVZApMyQuTXqchap"
+     width="379" height="379" 
+    class="widget widget-image"
+    data-original="https://images.assets-landingi.com/Dfz3xBQY/bipulchaudhary.jpg"
+    src="https://images.assets-landingi.com/gTQXhGF96ewPin4W/bipulchaudhary.jpg"
+    srcset="https://images.assets-landingi.com/gTQXhGF96ewPin4W/bipulchaudhary.jpg 1x, https://images.assets-landingi.com/Dfz3xBQY/bipulchaudhary.jpg 2x"
+    
+    alt=""
+    
+>
+<div id="gtwaL383v0dMnyUezm697oy8wRpmd56e" class="widget widget-text"><p>Watch a replay instantly!</p></div>
+        </div>
+    </div>
+</div>
+<div id="ctR4TCQmKVypElR028FMJ6FyTPPefbxM" class="widget widget-section " >
+    <div class="row">
+        
+        <div class="container " >
+            
+            <div id="QMnRLBi2cel6v5xoJQaTetE206JJ0ogd" class="widget widget-text"><h1><span style="color: rgb(255, 204, 0);">WHAT YOU WILL LEARN:</span></h1></div><div id="DXx9kwTv8u6yQyEM30kgU1Hbz2ZUVik6" class="widget widget-box" ></div><div id="VFSWMwe1NGv0plTskR302D2MQpIgePOM" class="widget widget-box" ></div><div id="deiNaeKmmbp6QUCtfTwloO9atSBsIRUa" class="widget widget-text"><p>Benefit <span style="font-weight: bold;">No. 1</span></p></div><div id="TLhT7x2MdtTeluiyZbmCFBDgaoOFoD1W" class="widget widget-text"><p>How to Start an internet-based business, and grow it SUCCESSFULLY</p></div><div id="Mo3dJVJUHvKoKWIN6FOfSPTmiwy6SpQy" class="widget widget-box" ></div><div id="tFDNo62yBPTvRZDFKz1TzviPpZKPNBlg" class="widget widget-text"><p>The benefits of tapping into a global community of business mentorship and support.</p></div><div id="wOhFezdlNhehvHNZrbgIqHonTyuh0X4R" class="widget widget-text"><p>Benefit <span style="font-weight: bold;">No. 2</span></p></div><div id="VB5TuOHdvcA6Kw9TG8yIvObmEmZQVTEF" class="widget widget-box" ></div><div id="DTeitCVxgPf8ATTkGUPxJeQfrdlN54qI" class="widget widget-box" ></div><div id="vx36vKPfeVmLkfZASTy6HrOpcIZt6HZS" class="widget widget-text"><p>Video-based training, so that you can simply follow along at your own pace.</p></div><div id="Zg7rlSmWT6sMoRTJJpTPRgBStmIH7rXL" class="widget widget-text"><p>Benefit <span style="font-weight: bold;">No. 3</span></p></div><div id="Pd0tbcW7NDZDXqsNfTU60Lwly0c7gBpX" class="widget widget-box" ></div>
+        </div>
+    </div>
+</div>
+<div id="KoR1lb0M4xGb2QtF9yTSmsN1RoVSEMCL" class="widget widget-section " >
+    <div class="row">
+        
+        <div class="container " >
+            
+            <div id="Vnsql2JM2sK36eVhiapJB7ABCShAzvuE" class="widget widget-box" ></div><div id="pVbnv0k8sRiT5D2oHvakqhSiFvgqNViH" class="widget widget-text"><p>Develop not only a business, but your own personal skills and confidence as well!</p></div><div id="bGT20imQVOUOv03BMH8N6TZhoe8045mB" class="widget widget-text"><p>Benefit <span style="font-weight: bold;">No. 6</span></p></div><div id="beys2xOf7ESChUvnMeeSuVnAZGDU6syU" class="widget widget-box" ></div><div id="WpC11yvwGWnKia1841PFPnhtgrg62he3" class="widget widget-box" ></div><div id="TEgVQTfWkKikcTU6GQZHuFbmTXTGKD3H" class="widget widget-box" ></div><div id="TlR6ROMXQAmqtyVGgAkF5mDWWV0LhEzn" class="widget widget-text"><p>Learn how to leverage technology and automation in your own business.</p></div><div id="wbDWX01OBfKeHMm5hZMRxORT3Wn4QFQs" class="widget widget-text"><p>Benefit <span style="font-weight: bold;">No. 5</span></p></div><div id="Waqn5o6TzKHt8imlf9QtMPComSnpKSAW" class="widget widget-box" ></div><div id="eZ3JRnLMldOURct22D2pihzBymCZN5sc" class="widget widget-box" ></div><div id="hxLiMBg4FTn3LkdDaIMPUeQvpPvq97r8" class="widget widget-text"><p>Benefit <span style="font-weight: bold;">No. 4</span></p></div><div id="ppSlvivzsO1U9V0T7kv5cmzTVfaWq1Hi" class="widget widget-text"><p>No business or technical background required.   We teach and train you in everything!</p></div>
+        </div>
+    </div>
+</div>
+<div id="Tk39JJGvBAH9JibRGZWRh50Ld82pQIFy" class="widget widget-section " >
+    <div class="row">
+        
+        <div class="container " >
+            
+            <div id="sWFVPZXRWCTSDOn9C7dEuzcAUvuf2ucH" class="widget widget-text"><p>Who am I? What this has done for me?</p></div>
+        </div>
+    </div>
+</div>
+<div id="Bilqp3XWhnXEIZWnEcq2J8Lfvbvu9gmQ" class="widget widget-section " >
+    <div class="row">
+        
+        <div class="container " >
+            
+            <div id="VE2H0TKwFFC5LAPdhNhyMA0hUEoSeoOu" ></div>
+                <script>
+                youtubeVideos.push({
+                    hash: 'VE2H0TKwFFC5LAPdhNhyMA0hUEoSeoOu',
+                    id: '9TxWFiWlArE',
+                    autoplay: 1,
+                    rel: 0,
+                    loop: 0,
+                    showinfo: 0,
+                    controls: 1,
+                    mute: 1
+                });
+                </script>
+        </div>
+    </div>
+</div>
+<div id="PZm2g0k7vvwBsc93Xp0HtQAzv2hgxrlL" class="widget widget-section " >
+    <div class="row">
+        
+        <div class="container " >
+            
+            <div id="JmF2PoCETaV5qVbBHn5yxvU9lSt73FNU" class="widget widget-text"><h1>A COUPLE OF TESTIMONIALS </h1></div>
+        </div>
+    </div>
+</div>
+<div id="Cb6RkTzwgk54paFN9FWSX1TwTA3J2zXP" class="widget widget-section " >
+    <div class="row">
+        
+        <div class="container " >
+            
+            
+        </div>
+    </div>
+</div>
+<div id="iO9pGc87gNG7zRm3vOZED7tybUR3TPIC" class="widget widget-section " >
+    <div class="row">
+        
+        <div class="container " >
+            
+            <div id="LayzX0R15qs2KFMA1IoguedUTDqstHyn" class="widget widget-box" ></div><div id="vlt9582Nm5LfHAe95Iswy0DUwTir8BHu" class="widget widget-box" ></div><div id="P3yfdDKIRwvl10gvTXCK1SpkTTRybmi1" class="widget widget-text"><p>Paul &amp; Helena</p></div><div id="FUxks87NMmBLPVEnakzTKWMnw0tiQQW6" class="widget widget-text"><p>Ex owner of a trucking company </p></div><div id="RLC04r3yHWv4C0XV4qyaARiQStBtHla8" class="widget widget-text"><p><br></p></div><div id="VmMhmTAZ32pnS4TppKsgzX1IbFpvFtd2" class="widget widget-text"><p>Sold the Brick and Mortar</p></div><div id="GKlxWPEZ6RLsLPrDSpJZDFm57LSu1A8h" class="widget widget-text"><p><span style="letter-spacing: 0px;">Paul owned a trucking company, and Helena was a book keeper, AND  just one year into our internet based business, we were able to both quit and finally spend our days together!</span></p></div><div id="Lq4eQHDuvvtzc2MPMKlrRmoaWihtud7u" class="widget widget-box" ></div><div id="AK7ZzmE9HFBt5U1zzWXk48wum3xSbCo8" class="widget widget-text"><p><span style="letter-spacing: 0px;"><span style="font-weight: normal;">I was brought in to stream line our department, and they streamlined me right out the door!  </span>"I was lucky I had already started this 1 year prior - my back up plan worked!"</span><br></p></div><div id="TJqKUrXuJZ9yB8yMqMWWJghMUnRHqZFf" class="widget widget-text"><p>Laid off -due to automation </p></div><div id="OSOJ96S5csw9svknT7XepPoqiKAUq07X" class="widget widget-box" ></div><div id="TTMq4oiL3nh3yqGkEbI8o81E1h0h4VFy" class="widget widget-text"><p><br></p></div><div id="kv1fJMThWC201L4GT5LOQdCRraImGsVD" class="widget widget-text"><p>Ex Middle manager</p></div><div id="Javm4Hw8E9LtiqTIUtcW8lw7Vkcgl41L" class="widget widget-text"><p>Kari</p></div>
+        </div>
+    </div>
+</div>
+<div id="mS6pKGarAEATGPTT7T7bGNQx6t6InC8e" class="widget widget-section " >
+    <div class="row">
+        
+        <div class="container " >
+            
+            <div id="OKVXKt36Pf5dKkFChpKmhva9o5UWfT1V" class="widget widget-box" ></div><div id="WkaAR8bQRJ7CDvWXkRzd4b1pdvynHGBZ" class="widget widget-text"><p><span style="color: rgb(255, 255, 255);">As with any business, results will vary and cannot be guaranteed.</span></p><p><span style="color: rgb(255, 255, 255);">Copyright © www.bipulconsulting.com </span></p><p><span style="color: rgb(255, 255, 255); letter-spacing: 0px;">All Rights Reserved</span></p></div><a href="/button/FZh5ccVzzqU2kDwb2QcLIIQd8E6Legc1" id="FZh5ccVzzqU2kDwb2QcLIIQd8E6Legc1" class="widget widget-button"  version="3" target="_blank" rel="noopener noreferrer" data-target-url="https&colon;&sol;&sol;www&period;bipulconsulting&period;com&sol;policy">
+    <div class="widget-overlay"></div>
+    <div id="TCTkQqvIVllepfST0QHdGIvgdqV7EcnE" class="widget widget-text">Terms | Privacy Policy &amp; Disclaimer</div>
+</a><form id="hXsJcRKrhcNRLWwsNstCAL9QRNeUMyZ7" class="widget widget-form" data-orientation="horizontal" data-version="2.1" action="/submit/fe4714ffbe738365fd73" enctype="multipart/form-data" method="post" novalidate data-hash="fe4714ffbe738365fd73"><div id="LdAIm0TidyOtW2hmVy5iTIJbRzkIkCXH" class="widget widget-container clearfix"><label id="l1SH4yV3KhyNatvrZr9Ai5eHfwlsH7SF" class="widget widget-text widget-regular-label widget-label">Name</label><input class="widget widget-input-text" id="qGQecO0MS7WcLi1aWB6tcXdpluW6BFNx"  type="text" subtype="name" placeholder="Enter Your Name" parentId="hXsJcRKrhcNRLWwsNstCAL9QRNeUMyZ7"  name="first_name"  value=""></div><div id="Uic2pJWHJcRcR3QstR7JhOk0ZtA6BWfp" class="widget widget-container clearfix"><label id="QaklMHwuUGkMccsIvfpINdohqdUmVWAy" class="widget widget-text widget-regular-label widget-label">E-mail</label><input class="widget widget-input-text" id="wK6AS18WK4saEUihdzuO06Xk0gtvHKnA"  type="email" subtype="email" parentId="hXsJcRKrhcNRLWwsNstCAL9QRNeUMyZ7" placeholder="Enter Your Email Address"  name="email"  value=""></div><div id="mK9xeP3ENwTlOURthzNMhFHq36BX14d8" class="widget widget-container input-button-container clearfix"><button class="widget widget-input-button" type="submit" id="smd4kMLz1BxKM7TN7hXDBSzvnnxlWPRU"  parentId="hXsJcRKrhcNRLWwsNstCAL9QRNeUMyZ7"><div class="widget-overlay"></div>REGISTER NOW For more testimonials</button></div><div id="mdpf27TFusmwwyiycZKvTnzwi9vxaUg5" class="widget widget-container clearfix">
+    <input class="widget widget-input-checkbox" type="checkbox"  id="hgMOTubZmMOmT5cRbrC2wyGLCk1k5nFS"  type="checkbox" parentId="hXsJcRKrhcNRLWwsNstCAL9QRNeUMyZ7"  name="field[31]" ><label id="d8tDpFnZsVylbshmVoW6GmCs3UVkIGWF" class="widget widget-text widget-checkbox-label widget-label"for="hgMOTubZmMOmT5cRbrC2wyGLCk1k5nFS">By checking this box, you consent to having us send information about our webinars & business program to the email address that you have provided on this form.</label>
+</div><input type="hidden" id="VT55Ed6hn924Dvsg8rdCif1tDibdJG8q"   name="list[2]"  value="2"><input type="hidden" id="etbWet4VScyEzTTCOJ4QhGxyROUuHqWR"   name="form"  value="2516"><input type="hidden" id="DBNTJAlxMd6yUMXs5vys8qR36H1zRC11"   name="field[16]"  value="Bipul Chaudhary"><input type="hidden" id="wSa0J7JXbiqCp90DgagQXkKP0XJCIaXC"   name="field[18]"  value="https://www.facebook.com/bipul07133"><input type="hidden" id="mrPbc7OHWHGAFACpefVAO6B9cwgvUfKg"   name="field[13]"  value="MD"><input type="hidden" id="yLkpD54ObsnKg2fP3cEQpbCL321eNkx0"   name="field[17]"  value="bipul@bipulconsulting.com"><input type="hidden" id="MTCU4aef3yQ2TT80A6EHbveZk3ad2ncC"   name="tags"  value="Bipul Chaudhary"><input type="hidden"    name="_name_"  value=""><input type="hidden"    name="_lead_uuid"  value=""><input type="hidden" name="_uid" value="hXsJcRKrhcNRLWwsNstCAL9QRNeUMyZ7"><input type="hidden" name="_redirect" value=""></form>
+        </div>
+    </div>
+</div><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script><script type="text/javascript" src="https://old.assets-landingi.com/bootstrap/js/landend.bootstrap.min.js"></script><script type="text/javascript" src="https://old.assets-landingi.com/bootstrap/js/bootbox.min.js"></script><script type="text/javascript" src="https://old.assets-landingi.com/js/landing.js"></script><script type="text/javascript" src="https://old.assets-landingi.com/assets/js/dist/landend/301019/landend.js"></script><script src="https://stats.landingi.com/track/1084941"></script><script type="text/javascript" src="https://scripts.assets-landingi.com/landend/160721/files.js"></script><script type='text/javascript' src='https://old.assets-landingi.com/assets/js/vendor/jquery-form/jquery.form.min.js'></script>
+<script type="text/javascript" src="https://scripts.assets-landingi.com/landend/260221/landend.min.js"></script>
+<script type="text/javascript" src="https://old.assets-landingi.com/assets/js/landend/260820/validation.js"></script><script type="text/javascript" src="https://scripts.assets-landingi.com/shopify/27072020/iframe.js"></script><script>
+    var tag = document.createElement('script');
+    tag.src = "https://www.youtube.com/iframe_api";
+    var firstScriptTag = document.getElementsByTagName('script')[0];
+    firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+    var youtubePlayers = [];
+
+    function onYouTubeIframeAPIReady() {
+        youtubeVideos.forEach(function (video) {
+            var options = {
+                playerVars: {
+                    rel: video.rel,
+                    loop: video.loop,
+                    showinfo: video.showinfo,
+                    controls: video.controls,
+                    mute: video.mute
+                },
+                events: {
+                    'onReady': function (event) {
+                        var element = $('#' + video.hash);
+
+                        if (video.autoplay) {
+                            if (element.closest('.video-iframe-container').length || !element.closest('.landingi-popup').length) {
+                                event.target.playVideo();
+                            }
+                        }
+                    },
+                    'onStateChange' : function (event) {
+                        if (event.target.getPlayerState() === 0 && video.loop !== 0) {
+                            event.target.playVideo();
+                        }
+                    }
+                }
+            };
+
+            if (video.id) {
+                options.videoId = video.id;
+            }
+
+            youtubePlayers[video.hash] = new YT.Player(video.hash, options);
+        });
+    }
+</script><script src="https://scripts.assets-landingi.com/video-bg/v0.5/videoBackground.js"></script></body></html>
